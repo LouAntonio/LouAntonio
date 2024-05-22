@@ -1,9 +1,7 @@
 ## Hi there 👋
 <h2 align="center">Hey, hope all fine with you<br>Welcome to my profile!</h2>
 
-###
-
-<p align="center">My name is <code>Lourenço</code>, and I'm a Software Engeneer student at 42 Luanda at Angola</p>
+<p align="center">My name is <code>Lourenço</code>, and I'm a Software Engeneer student at 42 Luanda, in Angola</p>
 
 ###
 
@@ -11,11 +9,11 @@
 
 ###
 
-<p align="left">📚 Software Engeneering student at 42 Luanda<br>🎯 Grown as a person and as a professional<br>🎲 Stud, Play and relax</p>
+<p align="left">📚 Software Engeneering student at <code>42 Luanda</code><br>🎯 Grown as a person and as a professional<br>🎲 Stud, Play and relax</p>
 
 ###
 
-<h3 align="left">At the moment i work with the following technologies:</h3>
+<h3 align="left">At the moment i work with the following <code>technologies</code>:</h3>
 
 ###
 
