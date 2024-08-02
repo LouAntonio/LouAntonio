@@ -1,12 +1,16 @@
-## My journey int the 42Luanda Core Curriculum
+## My journey int the [42Luanda](https://42luanda.com/) Core Curriculum
 
 <p float="left" align="center">
   <a href="https://github.com/louantonio/42-resources/">
     <img src="https://github.com/LouAntonio/LouAntonio/blob/main/resources/42CommonCore.png" style="width: 100%"/>
   </a>
 </p>
-# 💫 About Me:
-Hey, hope all fine with you<br>Welcome to my profile!<br>My name is Lourenço, and I'm a Software Engeneer student at 42 Luanda, in Angola<br><br>📚 Software Engeneering student at 42 Luanda<br>🎯 Grown as a person and as a professional<br>🎲 Stud, play games and relax<br><br>
+
+## About Me:
+Hey, hope all fine with you<br>Welcome to my profile!<br>My name is Lourenço, and I'm a Software Engeneer student at 42 Luanda, in Angola
+<br><br>📚 Software Engeneering student at [42 Luanda](https://github.com/LouAntonio/42-resources)
+<br>🎯 Grown as a person and as a professional
+<br>🎲 Stud, play games and relax<br><br>
 
 
 ## 🌐 Findme at:
